@@ -1,5 +1,5 @@
 /* This file is a part of Statrix */
-/* Coding : Priyanshu Dey [@HellFireDevil18] */
+/* Coding : Priyanshu Dey [@irisXDR] */
 
 .back-link {
     display: flex;
@@ -11,8 +11,11 @@
     transition:
         color var(--motion-fast) var(--ease-out-quart),
         transform var(--motion-fast) var(--ease-out-quart);
-    width: 20px;
-    height: 20px;
+    width: 44px;
+    height: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .back-link:hover {
@@ -93,7 +96,7 @@
     color: #fff;
     padding: 7px 32px 7px 12px;
     border-radius: 8px;
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 600;
     cursor: pointer;
     min-width: 160px;
@@ -1210,6 +1213,11 @@
 }
 
 @media (max-width: 768px) {
+    body,
+    .main-content {
+        overflow-x: hidden;
+    }
+
     .title-header,
     .history-dropdown select,
     .calendar-btn,

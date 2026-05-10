@@ -2,8 +2,8 @@
 #
 #
 #	Statrix Server Monitoring Agent - macOS Uninstall Script
-#	Copyright 2015 - 2026 @  HellFireDevil18
-#	Part of the Statrix monitoring platform by HellFireDevil18
+#	Copyright 2015 - 2026 @  irisXDR
+#	Part of the Statrix monitoring platform by irisXDR
 #	Original uninstall concept by HetrixTools - Modified for Statrix
 #
 #
@@ -11,8 +11,8 @@
 #
 #	The Software is provided "AS IS" and "WITH ALL FAULTS," without warranty of any kind, 
 #	including without limitation the warranties of merchantability, fitness for a particular purpose and non-infringement. 
-#	HellFireDevil18 makes no warranty that the Software is free of defects or is suitable for any particular purpose. 
-#	In no event shall HellFireDevil18 be responsible for loss or damages arising from the installation or use of the Software, 
+#	irisXDR makes no warranty that the Software is free of defects or is suitable for any particular purpose. 
+#	In no event shall irisXDR be responsible for loss or damages arising from the installation or use of the Software, 
 #	including but not limited to any indirect, punitive, special, incidental or consequential damages of any character including, 
 #	without limitation, damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses. 
 #	The entire risk as to the quality and performance of the Software is borne by you, the user.

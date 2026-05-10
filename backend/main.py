@@ -1,5 +1,5 @@
 # This file is a part of Statrix
-# Coding : Priyanshu Dey [@HellFireDevil18]
+# Coding : Priyanshu Dey [@irisXDR]
 
 from contextlib import asynccontextmanager
 from html import escape as html_escape

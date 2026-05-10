@@ -1,5 +1,5 @@
 # This file is a part of Statrix
-# Coding : Priyanshu Dey [@HellFireDevil18]
+# Coding : Priyanshu Dey [@irisXDR]
 
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone

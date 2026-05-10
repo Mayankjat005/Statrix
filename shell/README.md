@@ -2,7 +2,7 @@
 
 # 🖥️ Statrix Server Agent
 
-**Cross-platform server telemetry agent for [Statrix](https://github.com/HellFireDevil18/Statrix).**
+**Cross-platform server telemetry agent for [Statrix](https://github.com/irisXDR/Statrix).**
 
 Lightweight agents for **Linux**, **macOS**, and **Windows** that report CPU, RAM, disk, network, and service metrics to your Statrix instance.
 

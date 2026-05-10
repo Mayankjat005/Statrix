@@ -1,5 +1,5 @@
 // This file is a part of Statrix
-// Coding : Priyanshu Dey [@HellFireDevil18]
+// Coding : Priyanshu Dey [@irisXDR]
 
 function paginationAction(type, action) {
     const currentPage = state.pagination[type]?.page || 1;

@@ -1,5 +1,5 @@
 /* This file is a part of Statrix */
-/* Coding : Priyanshu Dey [@HellFireDevil18] */
+/* Coding : Priyanshu Dey [@irisXDR] */
 
 @media (max-width: 768px) {
     .dashboard-main {
@@ -777,8 +777,8 @@
     .pagination-btn,
     .monitor-type-tab,
     .ht-toolbar-icon-btn {
-        min-height: 40px;
-        min-width: 40px;
+        min-height: 44px;
+        min-width: 44px;
     }
 
     input:not([type="checkbox"]):not([type="radio"]),

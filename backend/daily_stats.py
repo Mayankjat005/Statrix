@@ -1,5 +1,5 @@
 # This file is a part of Statrix
-# Coding : Priyanshu Dey [@HellFireDevil18]
+# Coding : Priyanshu Dey [@irisXDR]
 
 """Daily stats aggregation service - pre-computes daily status for fast report loading."""
 

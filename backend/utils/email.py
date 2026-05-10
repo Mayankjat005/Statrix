@@ -1,5 +1,5 @@
 # This file is a part of Statrix
-# Coding : Priyanshu Dey [@HellFireDevil18]
+# Coding : Priyanshu Dey [@irisXDR]
 
 import smtplib
 import asyncio
@@ -34,7 +34,7 @@ _DOWN_TEMPLATE = (
     '<img src="{logo_url}" alt="S" width="44" height="44"'
     ' style="display:inline-block;vertical-align:middle;border-radius:50%;'
     'border:2px solid rgba(255,255,255,0.15);">'
-    '<a href="https://github.com/HellFireDevil18/Statrix" target="_blank"'
+    '<a href="https://github.com/irisXDR/Statrix" target="_blank"'
     ' style="display:inline-block;vertical-align:middle;margin-left:14px;'
     'font-size:22px;font-weight:700;color:#00d4aa;letter-spacing:-0.3px;text-decoration:none;{font}">'
     'Statrix</a>'
@@ -87,7 +87,7 @@ _DOWN_TEMPLATE = (
     # Footer
     '<tr><td style="text-align:center;padding:20px 36px;border-top:1px solid rgba(255,255,255,0.06);">'
     '<p style="margin:0;font-size:12px;color:#889097;{font}">'
-    'Powered by <a href="https://github.com/HellFireDevil18/Statrix" target="_blank"'
+    'Powered by <a href="https://github.com/irisXDR/Statrix" target="_blank"'
     ' style="color:#00d4aa;text-decoration:none;font-weight:600;">Statrix</a></p>'
     '</td></tr>'
 
@@ -112,7 +112,7 @@ _UP_TEMPLATE = (
     '<img src="{logo_url}" alt="S" width="44" height="44"'
     ' style="display:inline-block;vertical-align:middle;border-radius:50%;'
     'border:2px solid rgba(255,255,255,0.15);">'
-    '<a href="https://github.com/HellFireDevil18/Statrix" target="_blank"'
+    '<a href="https://github.com/irisXDR/Statrix" target="_blank"'
     ' style="display:inline-block;vertical-align:middle;margin-left:14px;'
     'font-size:22px;font-weight:700;color:#00d4aa;letter-spacing:-0.3px;text-decoration:none;{font}">'
     'Statrix</a>'
@@ -169,7 +169,7 @@ _UP_TEMPLATE = (
     # Footer
     '<tr><td style="text-align:center;padding:20px 36px;border-top:1px solid rgba(255,255,255,0.06);">'
     '<p style="margin:0;font-size:12px;color:#889097;{font}">'
-    'Powered by <a href="https://github.com/HellFireDevil18/Statrix" target="_blank"'
+    'Powered by <a href="https://github.com/irisXDR/Statrix" target="_blank"'
     ' style="color:#00d4aa;text-decoration:none;font-weight:600;">Statrix</a></p>'
     '</td></tr>'
 

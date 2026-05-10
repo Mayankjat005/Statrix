@@ -11,13 +11,13 @@
 [![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=statrix&type=git&repository=github.com/HellFireDevil18/Statrix&branch=master&builder=dockerfile&dockerfile=Dockerfile&ports=8000:http)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=statrix&type=git&repository=github.com/irisXDR/Statrix&branch=master&builder=dockerfile&dockerfile=Dockerfile&ports=8000:http)
 
 [Live Demo](https://status.chiheisen.de)
 
 </div>
 
-> ⚠️ **Early Stage:** This project is under active development and may contain bugs. If you find any, please [open an issue](https://github.com/HellFireDevil18/Statrix/issues).
+> ⚠️ **Early Stage:** This project is under active development and may contain bugs. If you find any, please [open an issue](https://github.com/irisXDR/Statrix/issues).
 
 ---
 
@@ -182,7 +182,7 @@ Statrix is built for developers and teams that want **full control** over uptime
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/HellFireDevil18/Statrix.git
+git clone https://github.com/irisXDR/Statrix.git
 cd Statrix
 
 # 2. Create your environment file
@@ -523,7 +523,7 @@ The dashboard command includes your exact `SID`, endpoint URL, and selected moni
 
 Open-source is hard! If you enjoy this project and want to support its development, please consider sponsoring or donating!
 
-[🧸 Support the Project - 地獄の火の悪魔](https://telegram.me/hellfiredevil)
+[🧸 Support the Project - 地獄の火の悪魔](https://telegram.me/irisXDR)
 
 ---
 
@@ -536,12 +536,12 @@ Open-source is hard! If you enjoy this project and want to support its developme
 <div align="center">
   <img src="./frontend/static/images/footer.png" />
   <p>
-    <em>Made with ❤️ by <a href="https://telegram.me/HellFireDevil">HellFireDevil18</a></em><br/>
+    <em>Made with ❤️ by <a href="https://telegram.me/irisXDR">irisXDR</a></em><br/>
     <em>Inspired by <a href="https://hetrixtools.com">HetrixTools</a></em>
   </p>
 </div>
 
 ## 🙏 Credits
 
-- [HellFireDevil](https://telegram.me/HellFireDevil) for creating it from scratch
+- [irisXDR](https://telegram.me/irisXDR) for creating it from scratch
 - Some AI Tools have been used to create certain portions of this repository.

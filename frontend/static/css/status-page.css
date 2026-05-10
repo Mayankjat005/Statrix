@@ -1,5 +1,5 @@
 /* This file is a part of Statrix */
-/* Coding : Priyanshu Dey [@HellFireDevil18] */
+/* Coding : Priyanshu Dey [@irisXDR] */
 
 .title-header {
     background: linear-gradient(135deg, #1e2a38 0%, #253545 100%);
@@ -1261,7 +1261,7 @@ td.loading {
 
     .search-box input {
         padding: 7px 10px;
-        font-size: 13px;
+        font-size: 16px;
         width: 100%;
         min-width: 0;
     }
@@ -1406,13 +1406,13 @@ td.loading {
 
     .view-toggle button {
         padding: 6px 8px;
-        min-height: 32px;
+        min-height: 44px;
         font-size: 12px;
     }
 
     .search-box input {
         padding: 6px 8px;
-        font-size: 12px;
+        font-size: 16px;
     }
 
     .search-box button {

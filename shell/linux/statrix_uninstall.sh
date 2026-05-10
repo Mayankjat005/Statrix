@@ -1,8 +1,8 @@
 #!/bin/bash
 #
 # Statrix Server Monitoring Agent - Linux Uninstall Script
-# Copyright 2015 - 2026 @ HellFireDevil18
-# Part of the Statrix monitoring platform by HellFireDevil18
+# Copyright 2015 - 2026 @ irisXDR
+# Part of the Statrix monitoring platform by irisXDR
 # Original uninstall concept by HetrixTools - Modified for Statrix
 #
 
